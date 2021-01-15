@@ -1,0 +1,12 @@
+package com.eureka.gallery.main.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.client.RestTemplate;
+
+public class HomeController {
+	@Autowired
+	private RestTemplate restTemplate; 
+	
+	private Environment env; 
+	
+}

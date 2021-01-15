@@ -1,0 +1,5 @@
+package com.eureka.image.main.entity;
+
+public class Image {
+
+}

@@ -1,0 +1,8 @@
+
+ # give a name to the eureka server
+spring.application.name = eureka-image
+
+# default port for eureka server
+server.port = 8200
+
+# eureka server url 

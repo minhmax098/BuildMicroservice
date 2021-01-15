@@ -1,0 +1,5 @@
+package com.eureka.gallery.main.entity;
+
+public class Gallery {
+
+}

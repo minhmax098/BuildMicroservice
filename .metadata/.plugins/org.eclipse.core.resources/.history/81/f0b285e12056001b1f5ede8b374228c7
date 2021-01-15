@@ -1,0 +1,10 @@
+package com.eureka.image.main.entity;
+
+public class Image { 
+	private Integer id; 
+	private String title; 
+	private String url; 
+	
+	
+
+}

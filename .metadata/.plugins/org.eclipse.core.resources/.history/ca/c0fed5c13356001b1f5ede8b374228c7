@@ -1,0 +1,8 @@
+package com.eureka.gallery.main.entity;
+
+public class Gallery {
+	private Integer id; 
+	private List<Object> images; 
+	
+	
+}

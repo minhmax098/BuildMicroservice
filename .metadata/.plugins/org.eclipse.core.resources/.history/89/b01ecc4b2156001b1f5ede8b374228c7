@@ -1,0 +1,9 @@
+package com.eureka.image.main.controller;
+
+
+
+public class HomeController {
+	
+	private Environment env; 
+	
+}
