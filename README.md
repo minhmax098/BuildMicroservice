@@ -8,3 +8,9 @@ Introduction:
 Overview: 
 - We need to create registry services, images, galleries and a gateway. 
 - The Gallery service will take the pictures taken from the Image service and organize them into a photo album.
+- Spring Boot version that we will use, is 2.3.7.REALSE or 2.4.1
+
+Process: 
+- 
+- 
+- 
